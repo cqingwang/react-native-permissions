@@ -1,4 +1,4 @@
-# React Native Permissions
+# React Native Permissions(fork from https://github.com/joshblour/react-native-permissions.git npm.org#0.2.7)
 Request user permissions from React Native, iOS + Android
 
 The current supported permissions are:
